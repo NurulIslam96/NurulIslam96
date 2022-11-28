@@ -27,4 +27,4 @@ Skills: REACT / JS / HTML / CSS / NODE / EXPRESS / MONGODB / TAILWIND / BOOTSTRA
   
  <p><img align="left" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=nurulislam96&show_icons=true&locale=en&layout=compact" alt="nurulislam96" /></p>
 
-<p>&nbsp;<img align="left" height="200" src="https://github-readme-stats.vercel.app/api?username=nurulislam96&show_icons=true&locale=en" alt="nurulislam96" /></p>
+<p>&nbsp;<img align="right" height="200" src="https://github-readme-stats.vercel.app/api?username=nurulislam96&show_icons=true&locale=en" alt="nurulislam96" /></p>
