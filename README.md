@@ -17,7 +17,7 @@ Skills: REACT / JS / HTML / CSS / NODE / EXPRESS / MONGODB / TAILWIND / BOOTSTRA
 
 <br />
 
-<h2><img src = "https://media.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif" width='50' height="40"/>&nbsp;Technologies that I know</h2>
+<h2><img src = "https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width='50' height="40"/>&nbsp;Technologies that I know</h2>
 
 <br>
 <p align="center">
