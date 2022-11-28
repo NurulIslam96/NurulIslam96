@@ -17,7 +17,7 @@ Skills: REACT / JS / HTML / CSS / NODE / EXPRESS / MONGODB / TAILWIND / BOOTSTRA
 
 <br />
 
-<h2><img src = "https://archiveprogram.github.com/"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" width='50'/>&nbsp;Technologies that I know</h2>
+<h2><img src = "https://process.filestackapi.com/cache=expiry:max/resize=width:700/efbSR18hT5uRKuo0zoMA" width='50'/>&nbsp;Technologies that I know</h2>
 
 <br>
 <p align="center">
