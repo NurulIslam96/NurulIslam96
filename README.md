@@ -10,7 +10,7 @@ Skills: REACT / JS / HTML / CSS / NODE / EXPRESS / MONGODB / TAILWIND / BOOTSTRA
 - 🌱 I’m currently learning MERN STACK 
 - 💬 Ask me about Anything related to MERN 
 - 📫 How to reach me: nurul.islam96@aol.com 
-- ⚡ Fun fact: if(funny){return <Bomb />} 
+- ⚡ Fun fact: if(funny){return "BomB"} 
 
 
 [<img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' alt='github' height='40'>](https://github.com/https://github.com/NurulIslam96)  [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/md-nurul-islam-29452a257//)  [<img src='https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/nurul.islam.3273/)  
