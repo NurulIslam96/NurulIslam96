@@ -2,7 +2,7 @@
 #### MERN Stack Developer
 ![MERN Stack Developer](https://i.ibb.co/GPcGTn4/Black-Minimal-Business-Personal-Profile-Linkedin-Banner.jpg)
 
-Hi, I am currently a MERN Stack Developer. I strive while using both the logical and creative part of my brain. I stand for quality, innovation and building useful products with a focus on the human  using the product. I am a proactive, confident and communicatively strong person always looking ahead in the future.
+Hi, I am currently a ReactJS Developer. I strive while using both the logical and creative part of my brain. I stand for quality, innovation and building useful products with a focus on the human  using the product. I am a proactive, confident and communicatively strong person always looking ahead in the future.
 
 Skills: REACT / JS / HTML / CSS / NODE / EXPRESS / MONGODB / TAILWIND / BOOTSTRAP / JWT
 
