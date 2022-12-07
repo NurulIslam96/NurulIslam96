@@ -15,7 +15,11 @@ Skills: REACT / JS / HTML / CSS / NODE / EXPRESS / MONGODB / TAILWIND / BOOTSTRA
 
 <!-- [<img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' alt='github' height='40'>](https://github.com/NurulIslam96)  [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-nurul-islam-29452a257//)  [<img src='https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white' alt='facebook' height='40'>](https://www.facebook.com/nurul.islam.3273/)   -->
 
-[<p align="center"><img height="75" src="https://github.com/NurulIslam96">](https://www.linkedin.com/in/mirhussainmurtaza/)[<img height="75" src="https://www.linkedin.com/in/nurulislam96/">](https://www.facebook.com/mirhussainmurtaza)[<img height="75" src=""> </p>](https://twitter.com/_mir_hussain_)
+[<p align="center"><img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/nurulislam96//)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://www.facebook.com/nurul.islam.3273/)
+
+ <div align="left">
+<a href="https://app.daily.dev/mir"><img align="right" src="https://github.com/mir-hussain/mir-hussain/blob/main/devcard.svg" width="200" alt="Mir Hussain's Dev Card"/></a>
+</div>
 
 <br />
 
@@ -26,6 +30,3 @@ Skills: REACT / JS / HTML / CSS / NODE / EXPRESS / MONGODB / TAILWIND / BOOTSTRA
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25"/> <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/firebase-FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white" height="25" />  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" height=25" />
 </p>
 <br/>
-  <div align="left">
-<a href="https://app.daily.dev/mir"><img align="right" src="https://github.com/mir-hussain/mir-hussain/blob/main/devcard.svg" width="200" alt="Mir Hussain's Dev Card"/></a>
-</div>
