@@ -1,3 +1,5 @@
+import './index.css'
+
 ### Hi there 👋, I'm MD. Nurul Islam
 #### MERN Stack Developer
 ![MERN Stack Developer](https://i.ibb.co/GPcGTn4/Black-Minimal-Business-Personal-Profile-Linkedin-Banner.jpg)
