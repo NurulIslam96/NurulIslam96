@@ -1,9 +1,7 @@
 <svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
-
       <style>
-      @import url("https://fonts.googleapis.com/css2?family=Raleway:wght@400;700&display=swap");
       * {
         margin: 0;
         padding: 0;
@@ -18,7 +16,6 @@
         font-family: "Raleway", sans-serif;
         font-weight: bold;
       }
-
       a {
         position: relative;
         display: inline-block;
@@ -32,7 +29,6 @@
         overflow: hidden;
         margin-right: 50px;
       }
-
       a:hover {
         background: #03e9f4;
         color: #050801;
@@ -40,15 +36,12 @@
           0 0 200px #03e9f4;
         -webkit-box-reflect: below 1px linear-gradient(transparent, #0005);
       }
-
       a:nth-child(1) {
         filter: hue-rotate(270deg);
       }
-
       a:nth-child(2) {
         filter: hue-rotate(110deg);
       }
-
       a span {
         position: absolute;
         display: block;
@@ -62,7 +55,6 @@
         background: linear-gradient(90deg, transparent, #03e9f4);
         animation: animate1 1s linear infinite;
       }
-
       @keyframes animate1 {
         0% {
           left: -100%;
@@ -73,7 +65,6 @@
           left: 100%;
         }
       }
-
       a span:nth-child(2) {
         top: -100%;
         right: 0;
@@ -83,7 +74,6 @@
         animation: animate2 1s linear infinite;
         animation-delay: 0.25s;
       }
-
       @keyframes animate2 {
         0% {
           top: -100%;
@@ -94,7 +84,6 @@
           top: 100%;
         }
       }
-
       a span:nth-child(3) {
         bottom: 0;
         right: 0;
