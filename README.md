@@ -1,4 +1,4 @@
-import './index.css'
+@@import './index.css'
 
 ### Hi there 👋, I'm MD. Nurul Islam
 #### MERN Stack Developer
