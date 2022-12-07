@@ -44,8 +44,6 @@ Skills: REACT / JS / HTML / CSS / NODE / EXPRESS / MONGODB / TAILWIND / BOOTSTRA
     <span></span>
     Blue Neon
 </a>
-
-
     </div>
   </foreignObject>
 </svg>
