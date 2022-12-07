@@ -6,14 +6,16 @@
         margin: 0;
         padding: 0;
         box-sizing: border-box;
-      }body {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        background: #03e9f4;
-        font-family: "Raleway", sans-serif;
-        font-weight: bold;
       }
+        body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: #050801;
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+}
       a {
         position: relative;
         display: inline-block;
