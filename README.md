@@ -15,7 +15,15 @@ Skills: REACT / JS / HTML / CSS / NODE / EXPRESS / MONGODB / TAILWIND / BOOTSTRA
 
 [<img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' alt='github' height='40'>](https://github.com/NurulIslam96)  [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-nurul-islam-29452a257//)  [<img src='https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white' alt='facebook' height='40'>](https://www.facebook.com/nurul.islam.3273/)
 
-<a href="#">
+<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+
+      <style>
+        /* your CSS */
+      </style>
+
+      <a href="#">
     <span></span>
     <span></span>
     <span></span>
@@ -37,6 +45,10 @@ Skills: REACT / JS / HTML / CSS / NODE / EXPRESS / MONGODB / TAILWIND / BOOTSTRA
     Blue Neon
 </a>
 
+
+    </div>
+  </foreignObject>
+</svg>
 
  <div align="left">
 <a href="https://app.daily.dev/mir"><img align="right" src="https://github.com/NurulIslam96/NurulIslam96/blob/main/card_dev.svg" width="200" alt="Mir Hussain's Dev Card"/></a>
