@@ -12,7 +12,7 @@ Skills: REACT / JS / HTML / CSS / NODE / EXPRESS / MONGODB / TAILWIND / BOOTSTRA
 - 📫 How to reach me: nurul.islam96@aol.com 
 - ⚡ Fun fact: if(funny){return "BomB"} 
 
-[<img src='https://github.com/NurulIslam96/NurulIslam96/blob/main/github.svg' alt='github'>](https://github.com/NurulIslam96){:target="_blank" rel="noopener"}[<img src='https://github.com/NurulIslam96/NurulIslam96/blob/main/linkedIn.svg' alt='linkedin'>](https://www.linkedin.com/in/md-nurul-islam-29452a257//){:target="_blank" rel="noopener"} [<img src='https://github.com/NurulIslam96/NurulIslam96/blob/main/facebook.svg' alt='facebook'>](https://www.facebook.com/nurul.islam.3273/){:target="_blank" rel="noopener"}
+[<img src='https://github.com/NurulIslam96/NurulIslam96/blob/main/github.svg' alt='github'>](https://github.com/NurulIslam96){target="_blank" rel="noopener"}[<img src='https://github.com/NurulIslam96/NurulIslam96/blob/main/linkedIn.svg' alt='linkedin'>](https://www.linkedin.com/in/md-nurul-islam-29452a257//){:target="_blank" rel="noopener"} [<img src='https://github.com/NurulIslam96/NurulIslam96/blob/main/facebook.svg' alt='facebook'>](https://www.facebook.com/nurul.islam.3273/){:target="_blank" rel="noopener"}
 
 <div align="center"></div>
 
