@@ -5,35 +5,16 @@
 🚀 About Me
 Hi, I’m a ReactJS Developer passionate about blending logic and creativity to craft intuitive, high-quality applications. I believe in building products that don’t just function efficiently but also enhance the user experience.
 
-💡 Driven by Innovation – Constantly exploring new technologies to create solutions that truly matter.
+-💡 Driven by Innovation – Constantly exploring new technologies to create solutions that truly matter.
 
-🔍 Quality & Precision – Every line of code is written with care, ensuring scalability and performance.
+-🔍 Quality & Precision – Every line of code is written with care, ensuring scalability and performance.
 
-👥 User-Centric Approach – My focus remains on the people who use my products, making tech accessible and enjoyable.
+-👥 User-Centric Approach – My focus remains on the people who use my products, making tech accessible and enjoyable.
 
-🚀 Proactive & Future-Focused – Always learning, adapting, and striving for growth in a rapidly evolving field.
+-🚀 Proactive & Future-Focused – Always learning, adapting, and striving for growth in a rapidly evolving field.
+
 
 Let’s connect and build something incredible together!
-
-- 🔭 I’m currently working on [asda](a)
-
-- 🌱 I’m currently learning **a**
-
-- 👯 I’m looking to collaborate on [a](a)
-
-- 🤝 I’m looking for help with [a](a)
-
-- 👨‍💻 All of my projects are available at [a](a)
-
-- 📝 I regularly write articles on [a](a)
-
-- 💬 Ask me about **a**
-
-- 📫 How to reach me **a**
-
-- 📄 Know about my experiences [a](a)
-
-- ⚡ Fun fact **a**
 
 
 Tech Stack:
