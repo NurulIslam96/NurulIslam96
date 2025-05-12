@@ -19,6 +19,7 @@ Got questions about MERN development or anything in the web dev space? I'm alway
 -📫 Reach Me
 
 📧 nurul.islam96@aol.com
+
 -⚡ Fun Fact
 
 The first computer bug was an actual bug—a moth stuck in a relay of the Harvard Mark II computer in 1947. Debugging has come a long way!
