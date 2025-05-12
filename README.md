@@ -12,6 +12,7 @@ Hi, I’m a ReactJS Developer passionate about blending logic and creativity to 
 -👥 User-Centric Approach – My focus remains on the people who use my products, making tech accessible and enjoyable.
 
 -🚀 Proactive & Future-Focused – Always learning, adapting, and striving for growth in a rapidly evolving field.
+- 🔭 I’m currently working on [asda](a)
 
 
 Let’s connect and build something incredible together!
