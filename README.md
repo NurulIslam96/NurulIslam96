@@ -13,14 +13,11 @@ Hi, I’m a ReactJS Developer passionate about blending logic and creativity to 
 
 - 🚀 Proactive & Future-Focused – Always learning, adapting, and striving for growth in a rapidly evolving field.
 
-
-
 Let’s connect and build something incredible together!
 
+🔗 Tech Stack:
 
-Tech Stack:
-
-⚡ React | JavaScript | HTML | CSS | Node.js | Express.js | MongoDB | Tailwind CSS | Bootstrap | JWT
+⚛️ React | 📜 JavaScript |  🖼️ HTML | 🎨 CSS | 🚀 Node.js | 🌐 Express.js | 📦 MongoDB | 💨 Tailwind CSS | 🛠️ Bootstrap | 🔒 JWT
 
 - 🌱 Continuous Learning
 
