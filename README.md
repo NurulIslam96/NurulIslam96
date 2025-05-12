@@ -15,6 +15,26 @@ Hi, I’m a ReactJS Developer passionate about blending logic and creativity to 
 
 Let’s connect and build something incredible together!
 
+- 🔭 I’m currently working on [asda](a)
+
+- 🌱 I’m currently learning **a**
+
+- 👯 I’m looking to collaborate on [a](a)
+
+- 🤝 I’m looking for help with [a](a)
+
+- 👨‍💻 All of my projects are available at [a](a)
+
+- 📝 I regularly write articles on [a](a)
+
+- 💬 Ask me about **a**
+
+- 📫 How to reach me **a**
+
+- 📄 Know about my experiences [a](a)
+
+- ⚡ Fun fact **a**
+
 
 Tech Stack:
 
