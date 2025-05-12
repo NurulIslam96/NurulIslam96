@@ -7,7 +7,7 @@ Hi, I’m a ReactJS Developer driven by the perfect blend of logic and creativit
 
 
 ## 🌐 Socials:
-[<img src='https://github.com/NurulIslam96/NurulIslam96/blob/main/Instagram.svg' alt='instagram'>](https://instagram.com/nurul.islam.96)[<img src='https://github.com/NurulIslam96/NurulIslam96/blob/main/linkedIn.svg' alt='linkedin'>](https://www.linkedin.com/in/md-nurul-islam-29452a257//)[<img src='https://github.com/NurulIslam96/NurulIslam96/blob/main/facebook.svg' alt='facebook'>](https://www.facebook.com/nurul.islam.3273/)
+[<img src='https://github.com/NurulIslam96/NurulIslam96/blob/main/Instagram.svg' alt='instagram'>](https://www.instagram.com/iamnur_3273/)[<img src='https://github.com/NurulIslam96/NurulIslam96/blob/main/linkedIn.svg' alt='linkedin'>](https://www.linkedin.com/in/md-nurul-islam-29452a257//)[<img src='https://github.com/NurulIslam96/NurulIslam96/blob/main/facebook.svg' alt='facebook'>](https://www.facebook.com/nurul.islam.3273/)
 
 <div align="center"></div>
 
