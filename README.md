@@ -19,21 +19,10 @@ Let’s connect and build something incredible together!
 
 ⚛️ React | 📜 JavaScript |  🖼️ HTML | 🎨 CSS | 🚀 Node.js | 🌐 Express.js | 📦 MongoDB | 💨 Tailwind CSS | 🛠️ Bootstrap | 🔒 JWT
 
-- 🌱 Continuous Learning
-
-Currently diving deep into the MERN Stack, refining skills, and building projects that solve real-world problems.
-
-- 💬 Let's Talk
-
-Got questions about MERN development or anything in the web dev space? I'm always up for a discussion!
-
-- 📫 Reach Me
-
-📧 nurul.islam96@aol.com
-
-- ⚡ Fun Fact
-
-The first computer bug was an actual bug—a moth stuck in a relay of the Harvard Mark II computer in 1947. Debugging has come a long way!
+- 🌱 Continuous Learning – Deepening my MERN Stack expertise, refining skills, and building impactful projects.
+- 💬 Let's Talk – Have questions about MERN development or web dev? Always up for a great discussion!
+- 📫 Reach Me – 📧 nurul.islam96@aol.com
+- ⚡ Fun Fact – The first computer bug was an actual moth stuck in a relay of the Harvard Mark II computer in 1947. Debugging has evolved!
 
 
 [<img src='https://github.com/NurulIslam96/NurulIslam96/blob/main/github.svg' alt='github'>](https://github.com/NurulIslam96)[<img src='https://github.com/NurulIslam96/NurulIslam96/blob/main/linkedIn.svg' alt='linkedin'>](https://www.linkedin.com/in/md-nurul-islam-29452a257//)[<img src='https://github.com/NurulIslam96/NurulIslam96/blob/main/facebook.svg' alt='facebook'>](https://www.facebook.com/nurul.islam.3273/)
