@@ -5,14 +5,14 @@
 🚀 About Me
 Hi, I’m a ReactJS Developer passionate about blending logic and creativity to craft intuitive, high-quality applications. I believe in building products that don’t just function efficiently but also enhance the user experience.
 
--💡 Driven by Innovation – Constantly exploring new technologies to create solutions that truly matter.
+- 💡 Driven by Innovation – Constantly exploring new technologies to create solutions that truly matter.
 
--🔍 Quality & Precision – Every line of code is written with care, ensuring scalability and performance.
+- 🔍 Quality & Precision – Every line of code is written with care, ensuring scalability and performance.
 
--👥 User-Centric Approach – My focus remains on the people who use my products, making tech accessible and enjoyable.
+- 👥 User-Centric Approach – My focus remains on the people who use my products, making tech accessible and enjoyable.
 
--🚀 Proactive & Future-Focused – Always learning, adapting, and striving for growth in a rapidly evolving field.
-- 🔭 I’m currently working on [asda](a)
+- 🚀 Proactive & Future-Focused – Always learning, adapting, and striving for growth in a rapidly evolving field.
+
 
 
 Let’s connect and build something incredible together!
@@ -22,19 +22,19 @@ Tech Stack:
 
 ⚡ React | JavaScript | HTML | CSS | Node.js | Express.js | MongoDB | Tailwind CSS | Bootstrap | JWT
 
--🌱 Continuous Learning
+- 🌱 Continuous Learning
 
 Currently diving deep into the MERN Stack, refining skills, and building projects that solve real-world problems.
 
--💬 Let's Talk
+- 💬 Let's Talk
 
 Got questions about MERN development or anything in the web dev space? I'm always up for a discussion!
 
--📫 Reach Me
+- 📫 Reach Me
 
 📧 nurul.islam96@aol.com
 
--⚡ Fun Fact
+- ⚡ Fun Fact
 
 The first computer bug was an actual bug—a moth stuck in a relay of the Harvard Mark II computer in 1947. Debugging has come a long way!
 
