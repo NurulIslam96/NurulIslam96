@@ -1,4 +1,4 @@
-<svg fill="none" width="200"  xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" width="300" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
@@ -32,7 +32,7 @@
       a:hover {
         background: #03e9f4;
         color: #050801;
-        box-shadow: 0 0 5px #03e9f4, 0 0 25px #03e9f4, 0 0 50px #03e9f4,
+        box-shadow: 0 0 5px #03e9f4, 0 0 25px #03e9f4, 0 0 50px #3B5998,
           0 0 200px #03e9f4;
         -webkit-box-reflect: below 1px linear-gradient(transparent, #0005);
       }
@@ -45,7 +45,7 @@
         left: 0;
         width: 100%;
         height: 2px;
-        background: linear-gradient(90deg, transparent, #FFFFFF);
+        background: linear-gradient(90deg, transparent, #3B5998);
         animation: animate1 1s linear infinite;
       }
       @keyframes animate1 {
@@ -63,7 +63,7 @@
         right: 0;
         width: 2px;
         height: 100%;
-        background: linear-gradient(180deg, transparent, #FFFFFF);
+        background: linear-gradient(180deg, transparent, #3B5998);
         animation: animate2 1s linear infinite;
         animation-delay: 0.25s;
       }
@@ -84,7 +84,7 @@
         right: 0;
         width: 100%;
         height: 2px;
-        background: linear-gradient(270deg, transparent, #FFFFFF);
+        background: linear-gradient(270deg, transparent, #3B5998);
         animation: animate3 1s linear infinite;
         animation-delay: 0.5s;
       }
@@ -105,10 +105,11 @@
         left: 0;
         width: 2px;
         height: 100%;
-        background: linear-gradient(360deg, transparent, #FFFFFF);
+        background: linear-gradient(360deg, transparent, #3B5998);
         animation: animate4 1s linear infinite;
         animation-delay: 0.75s;
       }
+
       @keyframes animate4 {
         0% {
           bottom: -100%;
@@ -120,13 +121,13 @@
         }
       }
     </style>
-      
+
       <a href="#">
       <span></span>
       <span></span>
       <span></span>
       <span></span>
-      Github
+      StackOverflow
     </a>
 
     </div>
