@@ -4,13 +4,18 @@
 
 Hi, I am currently a ReactJS Developer. I strive while using both the logical and creative part of my brain. I stand for quality, innovation and building useful products with a focus on the human  using the product. I am a proactive, confident and communicatively strong person always looking ahead in the future.
 
-Skills: REACT / JS / HTML / CSS / NODE / EXPRESS / MONGODB / TAILWIND / BOOTSTRAP / JWT
+Tech Stack:
+⚡ React | JavaScript | HTML | CSS | Node.js | Express.js | MongoDB | Tailwind CSS | Bootstrap | JWT
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning MERN STACK 
-- 💬 Ask me about Anything related to MERN 
-- 📫 How to reach me: nurul.islam96@aol.com 
-- ⚡ Fun fact: if(funny){return "BomB"} 
+-🌱 Continuous Learning
+Currently diving deep into the MERN Stack, refining skills, and building projects that solve real-world problems.
+-💬 Let's Talk
+Got questions about MERN development or anything in the web dev space? I'm always up for a discussion!
+-📫 Reach Me
+📧 nurul.islam96@aol.com
+-⚡ Fun Fact
+The first computer bug was an actual bug—a moth stuck in a relay of the Harvard Mark II computer in 1947. Debugging has come a long way!
+
 
 [<img src='https://github.com/NurulIslam96/NurulIslam96/blob/main/github.svg' alt='github'>](https://github.com/NurulIslam96)[<img src='https://github.com/NurulIslam96/NurulIslam96/blob/main/linkedIn.svg' alt='linkedin'>](https://www.linkedin.com/in/md-nurul-islam-29452a257//)[<img src='https://github.com/NurulIslam96/NurulIslam96/blob/main/facebook.svg' alt='facebook'>](https://www.facebook.com/nurul.islam.3273/)
 
